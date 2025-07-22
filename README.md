@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
 
 <a href="https://github.com/Phsithzz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/phoosith?theme=tokyonight&font=Baloo+Bhai&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/phoosith?theme=dark&font=Baloo+Bhai&extension=activity)
