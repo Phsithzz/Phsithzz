@@ -6,7 +6,6 @@ FullStack Web Developer , FullStack App Developer
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [phoosith2005@gmail.com](mailto:phoosith2548@gmail.com)
-* 🧠  I'm learning Nextjs,Flutter,React-Naive
 
 <a href="https://www.github.com/Phsithzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
