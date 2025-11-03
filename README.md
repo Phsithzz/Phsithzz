@@ -5,8 +5,9 @@ FullStack Web Developer , FullStack App Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [phoosith2005@gmail.com](mailto:phoosith2548@gmail.com)
-* My Web PortFolio [https://phoosith-dev.vercel.app/]
+* ✉️  You can contact me at [phoosith2005@gmail.com](mailto:phoosith2005@gmail.com)
+
+* 🌐 My Web Portfolio: [phoosith-dev.vercel.app](https://phoosith-dev.vercel.app)
 
 <a href="https://www.github.com/Phsithzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -77,7 +78,14 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
 
 ### Socials
 
-<a href="www.linkedin.com/in/phoosith-pheanchob-531bba309" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.linkedin.com/in/phoosith-pheanchob-531bba309" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  </picture>
+</a>
+
 
 ### LeetCode
 
