@@ -86,6 +86,14 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
   </picture>
 </a>
 
+### 📊 GitHub Stats & Languages
+
+<a href="https://github.com/Phsithzz">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight&hide_border=true" alt="Phoosith's GitHub Stats" height="180em"/>
+</a>
+<a href="https://github.com/Phsithzz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
+</a>
 
 ### LeetCode
 
