@@ -86,9 +86,7 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
   </picture>
 </a>
 
-### 📊 GitHub Stats
 
-![Phoosith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🧩 Most Used Languages
 
