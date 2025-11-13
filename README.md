@@ -55,16 +55,8 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
 </p>
 
 
-#### 🧰 Tools & Others  
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" title="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudiocode" width="36" height="36" title="VS Code" /></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="36" height="36" title="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width="36" height="36" title="Photoshop" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=premierepro" width="36" height="36" title="Premiere Pro" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" title="Arduino" /></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" width="36" height="36" title="Blender" /></a>
-
+#### 🧰 Tools & Others 
+<p align="left"> <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" title="Git"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" title="VS Code"/></a> <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" title="Figma"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" title="Photoshop"/></a> <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" title="Premiere Pro"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" title="Arduino"/></a> <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" title="Blender"/></a> 
   <!-- เพิ่มโปรแกรมใหม่ -->
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" title="Android Studio" /></a>
   <a href="https://netbeans.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=netbeans" width="36" height="36" title="NetBeans" /></a>
