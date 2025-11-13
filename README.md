@@ -64,7 +64,11 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" title="Premiere Pro"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" title="Arduino"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" title="Blender"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/androidstudio-colored.svg" width="36" height="36" title="Android Studio"/></a>
+  <a href="https://netbeans.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netbeans-colored.svg" width="36" height="36" title="NetBeans"/></a>
+  <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/intellij-idea-colored.svg" width="36" height="36" title="IntelliJ IDEA Community"/></a>
 </p>
+
 
 #### 🧮 Programming Languages  
 <p align="left">
