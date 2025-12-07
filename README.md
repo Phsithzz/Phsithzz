@@ -93,9 +93,7 @@ src="https://img.shields.io/github/followers/Phsithzz?logo=github&style=for-the-
 
 
 
-### 🧩 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ### LeetCode
