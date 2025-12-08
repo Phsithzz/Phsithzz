@@ -5,7 +5,7 @@ FullStack Web Developer , FullStack App Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [phoosith2005@gmail.com](mailto:phoosith2005@gmail.com)
+* ✉️  You can contact me at [phoosith2005@gmail.com](mailto:phoosith2548@gmail.com)
 
 * 🌐 My Web Portfolio: [phoosith-dev.vercel.app](https://phoosith-dev.vercel.app)
 
