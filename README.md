@@ -28,10 +28,11 @@ Full-Stack Web & Mobile Application Developer
 
 <p align="left"> <a href="https://www.linkedin.com/in/phoosith/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&layout=compact&theme=tokyonight)
+
 ### LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/phoosith?theme=nord&font=Fira+Code)
