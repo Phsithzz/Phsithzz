@@ -28,9 +28,10 @@ Full-Stack Web & Mobile Application Developer
 
 <p align="left"> <a href="https://www.linkedin.com/in/phoosith/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Phsithzz&theme=onedark&row=1)
+![Followers](https://img.shields.io/github/followers/Phsithzz?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Phsithzz?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-success?style=for-the-badge)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phsithzz&theme=tokyonight)
 
 
 
