@@ -28,11 +28,7 @@ Full-Stack Web & Mobile Application Developer
 
 <p align="left"> <a href="https://www.linkedin.com/in/phoosith/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Phsithzz&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&layout=compact&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Phsithzz&theme=onedark&row=1&column=6)
 
 
 ### LeetCode
