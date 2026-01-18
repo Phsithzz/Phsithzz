@@ -30,8 +30,10 @@ Full-Stack Web & Mobile Application Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phsithzz&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Phsithzz&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phsithzz&layout=compact&theme=tokyonight)
+
 
 ### LeetCode
 
