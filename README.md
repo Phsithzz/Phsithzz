@@ -29,10 +29,26 @@
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Tech Stack
 
+#### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,supabase,flutter,kotlin,java,python,c,cpp,git,linux,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap" />
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" />
+</p>
+
+#### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+</p>
+
+#### 🛠️ Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,figma,arduino,java,python,c,cpp" />
 </p>
 
 ---
