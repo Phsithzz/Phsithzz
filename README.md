@@ -6,8 +6,8 @@
 ### 🔧 About Me
 
 - 🌍 Based in Bangkok, Thailand  
-- 🖥️ Portfolio: https://phoosith-dev.vercel.app/  
-- ✉️ Email: phoosith2548@gmail.com  
+- 🖥️ Portfolio: <a href="https://phoosith-dev.vercel.app/" target="_blank" rel="noopener noreferrer">phoosith-dev.vercel.app</a>  
+- ✉️ Email: <a href="mailto:phoosith2548@gmail.com" target="_blank" rel="noopener noreferrer">phoosith2548@gmail.com</a>  
 - 💼 Focus: Fullstack (Web + Mobile)
 
 ---
@@ -15,10 +15,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/phoosith/">
+  <a href="https://www.linkedin.com/in/phoosith/" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:phoosith2548@gmail.com">
+  <a href="mailto:phoosith2548@gmail.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
